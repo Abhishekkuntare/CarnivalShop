@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@100;200;300;400;500;600;700;800;900&family=Major+Mono+Display&display=swap");
+.logo {
+  font-family: "Major Mono Display", "monospace";
+  font-weight: bold;
+  font-size: 23px;
+}
+.logobottom {
+  font-family: "Major Mono Display", "monospace";
+  font-weight: bold;
+  font-size: 27px;
+  color: black;
+}

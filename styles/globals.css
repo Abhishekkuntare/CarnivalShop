@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url("https://fonts.googleapis.com/css2?family=Indie+Flower&family=Major+Mono+Display&display=swap");
+
+body {
+  overflow-x: hidden;
+}
